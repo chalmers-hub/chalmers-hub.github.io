@@ -300,7 +300,14 @@
 &lt;&#x2F;pre&gt;
 &lt;script type=&quot;module&quot;&gt;
     import mermaid from &#x27;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;mermaid@10&#x2F;dist&#x2F;mermaid.esm.min.mjs&#x27;;
-    mermaid.initialize({ startOnLoad: true });
+    mermaid.initialize({
+        startOnLoad: true,
+        theme: &#x27;base&#x27;,
+        themeVariables: {
+            primaryColor: &#x27;#6699FF&#x27;,
+            lineColor: &#x27;#F8B229&#x27;,
+        }
+    });
 &lt;&#x2F;script&gt;
 </content>
         
