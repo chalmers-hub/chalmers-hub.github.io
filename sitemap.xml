@@ -7,49 +7,8 @@
         <loc>https://chalmers-hub.github.io/authors/</loc>
     </url>
     <url>
-        <loc>https://chalmers-hub.github.io/authors/aaran-xu/</loc>
-    </url>
-    <url>
         <loc>https://chalmers-hub.github.io/authors/fangsong-long/</loc>
         <lastmod>2023-08-25T14:50:20.235Z</lastmod>
-    </url>
-    <url>
-        <loc>https://chalmers-hub.github.io/authors/public/</loc>
-    </url>
-    <url>
-        <loc>https://chalmers-hub.github.io/authors/rustaceans/</loc>
-    </url>
-    <url>
-        <loc>https://chalmers-hub.github.io/blog/</loc>
-    </url>
-    <url>
-        <loc>https://chalmers-hub.github.io/blog/hello-world/</loc>
-        <lastmod>2021-05-01T09:19:42+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://chalmers-hub.github.io/blog/markdown-syntax/</loc>
-        <lastmod>2021-04-20T09:19:42+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://chalmers-hub.github.io/blog/math-typesetting/</loc>
-        <lastmod>2021-04-08T09:19:42+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://chalmers-hub.github.io/blog/page/1/</loc>
-    </url>
-    <url>
-        <loc>https://chalmers-hub.github.io/blog/page/2/</loc>
-    </url>
-    <url>
-        <loc>https://chalmers-hub.github.io/blog/page/3/</loc>
-    </url>
-    <url>
-        <loc>https://chalmers-hub.github.io/blog/placeholder-text/</loc>
-        <lastmod>2021-04-10T09:19:42+00:00</lastmod>
-    </url>
-    <url>
-        <loc>https://chalmers-hub.github.io/blog/say-hello-to-zola-doks/</loc>
-        <lastmod>2021-04-03T07:00:00+00:00</lastmod>
     </url>
     <url>
         <loc>https://chalmers-hub.github.io/docs/</loc>
@@ -108,9 +67,6 @@
         <lastmod>2023-08-25T12:59:02.797Z</lastmod>
     </url>
     <url>
-        <loc>https://chalmers-hub.github.io/fi/</loc>
-    </url>
-    <url>
         <loc>https://chalmers-hub.github.io/groups/</loc>
     </url>
     <url>
@@ -122,5 +78,64 @@
     </url>
     <url>
         <loc>https://chalmers-hub.github.io/privacy-policy/</loc>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/</loc>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/docs/</loc>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/docs/id/</loc>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/docs/id/personal-number/</loc>
+        <lastmod>2023-08-25T13:42:37.769Z</lastmod>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/docs/living/</loc>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/docs/living/rubbish/</loc>
+        <lastmod>2023-08-27T21:33:31.798Z</lastmod>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/docs/phone/</loc>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/docs/phone/circ-sim/</loc>
+        <lastmod>2023-08-25T12:18:34.718Z</lastmod>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/docs/step-by-step/</loc>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/docs/step-by-step/introduction/</loc>
+        <lastmod>2023-08-28T18:17:50.761Z</lastmod>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/docs/transport/</loc>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/docs/transport/shared-bicycle/</loc>
+        <lastmod>2023-08-28T19:00:37.725Z</lastmod>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/docs/transport/ticket/</loc>
+        <lastmod>2023-08-25T12:59:02.797Z</lastmod>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/groups/</loc>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/groups/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/groups/wechat/</loc>
+        <lastmod>2023-08-28T18:37:58.129Z</lastmod>
+    </url>
+    <url>
+        <loc>https://chalmers-hub.github.io/zh/groups/whatsapp/</loc>
+        <lastmod>2023-08-28T12:49:15.293Z</lastmod>
     </url>
 </urlset>
