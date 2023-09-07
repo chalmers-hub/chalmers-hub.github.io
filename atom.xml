@@ -5,8 +5,42 @@
     <link href="https://chalmers-hub.github.io/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://chalmers-hub.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-08-28T12:49:15.293+00:00</updated>
+    <updated>2023-09-07T21:21:33.335+00:00</updated>
     <id>https://chalmers-hub.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>ID Card</title>
+        <published>2023-09-07T21:21:33.335+00:00</published>
+        <updated>2023-09-07T21:21:33.335+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://chalmers-hub.github.io/docs/id/id-card/" type="text/html"/>
+        <id>https://chalmers-hub.github.io/docs/id/id-card/</id>
+        
+        <content type="html">&lt;p&gt;Make an appointment &lt;a href=&quot;https:&#x2F;&#x2F;ssc.nemoq.se&#x2F;Booking&#x2F;Booking&#x2F;Index&#x2F;SSC&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;pay-the-fee&quot;&gt;Pay the fee&lt;&#x2F;h2&gt;
+&lt;p&gt;You need to pay the fee (400SEK) before you go to the Skatteverket.&lt;&#x2F;p&gt;
+&lt;p&gt;Use the payment information &lt;a href=&quot;https:&#x2F;&#x2F;www.skatteverket.se&#x2F;servicelankar&#x2F;otherlanguages&#x2F;inenglish&#x2F;individualsandemployees&#x2F;livinginsweden&#x2F;idcard&#x2F;idcardapplicationconditions.4.3810a01c150939e893f1daea.html#h-Howtopaytheapplicationfee&quot;&gt;here&lt;&#x2F;a&gt; to pay 400 SEK to the Skatteverket.&lt;&#x2F;p&gt;
+&lt;p&gt;Remember state your personal identity number when paying!&lt;&#x2F;p&gt;
+&lt;p&gt;If you want to avoid the (potential) high bank transfer fee, you may:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ask a friend who already has a bank account or&#x2F;and swish to pay for you&lt;&#x2F;li&gt;
+&lt;li&gt;Use &lt;a href=&quot;https:&#x2F;&#x2F;transferwise.com&#x2F;&quot;&gt;TransferWise&lt;&#x2F;a&gt;&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; to pay the fee&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;go-to-the-skatteverket-for-getting-the-id-card&quot;&gt;Go to the Skatteverket for getting the ID card&lt;&#x2F;h2&gt;
+&lt;p&gt;You need to bring:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your passport&lt;&#x2F;li&gt;
+&lt;li&gt;Your residence permit card&lt;&#x2F;li&gt;
+&lt;li&gt;The payment receipt, or any proof of payment&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Register yourself at the desk for arrival registration at the entrance by scanning the QR code they sent you in an email, then wait for your number to be called to the counter.&lt;&#x2F;p&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;It&#x27;s said that Revolut could be used to pay the fee, but it seems that it&#x27;s not working now. If someone has found a way, please let me know.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Whatsapp Groups</title>
         <published>2023-08-28T12:49:15.293+00:00</published>
@@ -293,7 +327,8 @@
         accommodation --&gt; shopping[Online shopping delivery]
         travel --&gt; traffic[Travel hints]
         travel -.-&gt; personal
-        personal[&lt;a href=&quot;&#x2F;docs&#x2F;id&#x2F;personal-number&quot;&gt;Personal Number&lt;&#x2F;a&gt;] --&gt; bank[Open Bank Account]
+        personal[&lt;a href=&quot;&#x2F;docs&#x2F;id&#x2F;personal-number&quot;&gt;Personal Number&lt;&#x2F;a&gt;] --&gt; id[&lt;a href=&quot;&#x2F;docs&#x2F;id&#x2F;id-card&quot;&gt;ID Card&lt;&#x2F;a&gt;]
+        id --&gt; bank[Open Bank Account]
         travel -.-&gt; Shopping
         DigitalStudentCard[Digital Student Card &amp; Mercant]
         DigitalStudentCard --&gt; PhysicalStudentCard[Physical Student Card]
