@@ -5,8 +5,32 @@
     <link href="https://chalmers-hub.github.io/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="https://chalmers-hub.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2023-09-07T21:21:33.335+00:00</updated>
+    <updated>2023-09-07T22:00:25.886+00:00</updated>
     <id>https://chalmers-hub.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Update personal identity number information in Chalmers</title>
+        <published>2023-09-07T22:00:25.886+00:00</published>
+        <updated>2023-09-07T22:00:25.886+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://chalmers-hub.github.io/docs/id/update-pn-in-chalm/" type="text/html"/>
+        <id>https://chalmers-hub.github.io/docs/id/update-pn-in-chalm/</id>
+        
+        <content type="html">&lt;h1 id=&quot;update-personal-identity-number-information-in-chalmers-studentkar&quot;&gt;Update personal identity number information in Chalmers studentkår&lt;&#x2F;h1&gt;
+&lt;p&gt;You may go to the studentkår office to update your personal identity number information, it is on the first floor of the student union building.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;chalmers-hub.github.io&#x2F;docs&#x2F;id&#x2F;update-pn-in-chalm&#x2F;FC6EE1B4-3542-4AD0-B87B-8FA016FC18DA_1_105_c.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;chalmers-hub.github.io&#x2F;docs&#x2F;id&#x2F;update-pn-in-chalm&#x2F;180A7390-3EBE-4AFA-8454-48BEDFFA283F_1_105_c.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;You need to bring:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;your passport&lt;&#x2F;li&gt;
+&lt;li&gt;an official document which shows identity number, the letter from Skatteverket is fine&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;update-personal-identity-number-information-in-ladok&quot;&gt;Update personal identity number information in Ladok&lt;&#x2F;h1&gt;
+&lt;p&gt;You can follow the steps &lt;a href=&quot;https:&#x2F;&#x2F;www.chalmers.se&#x2F;en&#x2F;education&#x2F;your-studies&#x2F;plan-and-conduct-your-studies&#x2F;update-your-contact-information&#x2F;#update-name-andor-temporary-personal-identity-number&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>ID Card</title>
         <published>2023-09-07T21:21:33.335+00:00</published>
@@ -83,7 +107,7 @@
         <id>https://chalmers-hub.github.io/docs/living/rubbish/</id>
         
         <content type="html">&lt;p&gt;Rubbish needs to be sorted before throwing away.&lt;&#x2F;p&gt;
-&lt;p&gt;There are four types of rubbish:&lt;&#x2F;p&gt;
+&lt;p&gt;There are six types of rubbish:&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;food-waste&quot;&gt;Food waste&lt;&#x2F;h2&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;chalmers-hub.github.io&#x2F;docs&#x2F;living&#x2F;rubbish&#x2F;IMG_3549.png&quot; alt=&quot;Alt text&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Waste belongs to this category:&lt;&#x2F;p&gt;
@@ -329,6 +353,7 @@
         travel -.-&gt; personal
         personal[&lt;a href=&quot;&#x2F;docs&#x2F;id&#x2F;personal-number&quot;&gt;Personal Number&lt;&#x2F;a&gt;] --&gt; id[&lt;a href=&quot;&#x2F;docs&#x2F;id&#x2F;id-card&quot;&gt;ID Card&lt;&#x2F;a&gt;]
         id --&gt; bank[Open Bank Account]
+        personal --&gt; update[&lt;a href=&quot;&#x2F;docs&#x2F;id&#x2F;update-pn-in-chalm&#x2F;&quot;&gt;Update personal number information in Chalmers&lt;&#x2F;a&gt;]
         travel -.-&gt; Shopping
         DigitalStudentCard[Digital Student Card &amp; Mercant]
         DigitalStudentCard --&gt; PhysicalStudentCard[Physical Student Card]
@@ -340,6 +365,8 @@
         course[Register for courses and exams]
         timeEdit[Check time of your classes]
         doors[enter the facilities]
+        pays[Payment without personal number or BankID]
+        delivery[Delivery service]
 &lt;&#x2F;pre&gt;
 &lt;script type=&quot;module&quot;&gt;
     import mermaid from &#x27;https:&#x2F;&#x2F;cdn.jsdelivr.net&#x2F;npm&#x2F;mermaid@10&#x2F;dist&#x2F;mermaid.esm.min.mjs&#x27;;
