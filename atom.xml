@@ -41,7 +41,8 @@
         <link rel="alternate" href="https://chalmers-hub.github.io/docs/id/id-card/" type="text/html"/>
         <id>https://chalmers-hub.github.io/docs/id/id-card/</id>
         
-        <content type="html">&lt;p&gt;Make an appointment &lt;a href=&quot;https:&#x2F;&#x2F;ssc.nemoq.se&#x2F;Booking&#x2F;Booking&#x2F;Index&#x2F;SSC&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+        <content type="html">&lt;h2 id=&quot;make-an-appointment&quot;&gt;Make an appointment&lt;&#x2F;h2&gt;
+&lt;p&gt;Make an appointment &lt;a href=&quot;https:&#x2F;&#x2F;ssc.nemoq.se&#x2F;Booking&#x2F;Booking&#x2F;Index&#x2F;SSC&quot;&gt;here&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;pay-the-fee&quot;&gt;Pay the fee&lt;&#x2F;h2&gt;
 &lt;p&gt;You need to pay the fee (400SEK) before you go to the Skatteverket.&lt;&#x2F;p&gt;
 &lt;p&gt;Use the payment information &lt;a href=&quot;https:&#x2F;&#x2F;www.skatteverket.se&#x2F;servicelankar&#x2F;otherlanguages&#x2F;inenglish&#x2F;individualsandemployees&#x2F;livinginsweden&#x2F;idcard&#x2F;idcardapplicationconditions.4.3810a01c150939e893f1daea.html#h-Howtopaytheapplicationfee&quot;&gt;here&lt;&#x2F;a&gt; to pay 400 SEK to the Skatteverket.&lt;&#x2F;p&gt;
@@ -51,14 +52,21 @@
 &lt;li&gt;Ask a friend who already has a bank account or&#x2F;and swish to pay for you&lt;&#x2F;li&gt;
 &lt;li&gt;Use &lt;a href=&quot;https:&#x2F;&#x2F;transferwise.com&#x2F;&quot;&gt;TransferWise&lt;&#x2F;a&gt;&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt; to pay the fee&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;go-to-the-skatteverket-for-getting-the-id-card&quot;&gt;Go to the Skatteverket for getting the ID card&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;go-to-the-skatteverket-for-taking-a-photo&quot;&gt;Go to the Skatteverket for taking a photo&lt;&#x2F;h2&gt;
+&lt;p&gt;When your appointment is due, go to the Skatteverket for taking a photo.&lt;&#x2F;p&gt;
 &lt;p&gt;You need to bring:&lt;&#x2F;p&gt;
 &lt;ul&gt;
-&lt;li&gt;Your passport&lt;&#x2F;li&gt;
 &lt;li&gt;Your residence permit card&lt;&#x2F;li&gt;
 &lt;li&gt;The payment receipt, or any proof of payment&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;p&gt;Register yourself at the desk for arrival registration at the entrance by scanning the QR code they sent you in an email, then wait for your number to be called to the counter.&lt;&#x2F;p&gt;
+&lt;p&gt;After taking the photo, you will receive a receipt, keep it safe, you will need it when you go to the Skatteverket for getting the ID card.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;go-to-the-skatteverket-for-getting-the-id-card&quot;&gt;Go to the Skatteverket for getting the ID card&lt;&#x2F;h2&gt;
+&lt;p&gt;After the ID card is ready, you will receive a SMS message to go to the Skatteverket for getting the ID card.&lt;&#x2F;p&gt;
+&lt;p&gt;Getting the ID card does not require an appointment.&lt;&#x2F;p&gt;
+&lt;p&gt;You need to bring:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;The receipt you received when taking the photo.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;div class=&quot;footnote-definition&quot; id=&quot;1&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
 &lt;p&gt;It&#x27;s said that Revolut could be used to pay the fee, but it seems that it&#x27;s not working now. If someone has found a way, please let me know.&lt;&#x2F;p&gt;
 &lt;&#x2F;div&gt;
